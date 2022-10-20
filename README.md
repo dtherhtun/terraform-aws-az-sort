@@ -3,8 +3,8 @@
 Terraform module which sort subnet ids in alphabetize az
 
 ## Examples
-- [single data source sorting](https://github.com/dtherhtun/terraform-aws-az-sort/blob/master/example/main.tf#L44)
-- [multiple data source sorting](https://github.com/dtherhtun/terraform-aws-az-sort/blob/master/example/main.tf#L50)
+- [single data source sorting](https://github.com/dtherhtun/terraform-aws-az-sort/blob/e7767ba850ef56637a9d1237fc3a12d04eeaeab2/example/main.tf#L44)
+- [multiple data source sorting](https://github.com/dtherhtun/terraform-aws-az-sort/blob/e7767ba850ef56637a9d1237fc3a12d04eeaeab2/example/main.tf#L50)
 
 ![alt](./example/sorting.png)
 
